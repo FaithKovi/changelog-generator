@@ -2,7 +2,7 @@
 google-genai>=1.0.0
 
 # Anthropic Claude (optional, use with --provider claude)
-# anthropic>=0.40.0
+anthropic>=0.40.0
 
 # Environment variable loading
 python-dotenv>=1.0.0
