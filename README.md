@@ -308,6 +308,4 @@ Google Gemini's free tier availability varies by region. If you get a `429 RESOU
 2. Use a VPN connected to a US or EU location
 3. Fall back to Claude with `--provider claude`
 
-## License
 
-MIT License. See [LICENSE](LICENSE) for details.
